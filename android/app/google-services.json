@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516322842942",
+    "project_id": "apk-notas-devmobile",
+    "storage_bucket": "apk-notas-devmobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516322842942:android:e99314e5e044a80d9b346f",
+        "android_client_info": {
+          "package_name": "com.example.apk_notas_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJHuUaP-v7w-6csp8pFeGLWBBXzjg3kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
